@@ -15,20 +15,20 @@ Full list of currencies
   //   ...
   //   {
   //     name: 'US Dollar',
-  //     name_plural: 'US dollars',
+  //     namePlural: 'US dollars',
   //     code: 'USD',
   //     symbol: '$',
-  //     symbol_native: '$',
-  //     decimal_digits: 2,
+  //     symbolNative: '$',
+  //     decimalDigits: 2,
   //     rounding: 0,
   //   },
   //   {
   //     name: 'Russian Ruble',
-  //     name_plural: 'Russian rubles',
+  //     namePlural: 'Russian rubles',
   //     code: 'RUB',
   //     symbol: 'RUB',
-  //     symbol_native: '₽.',
-  //     decimal_digits: 2,
+  //     symbolNative: '₽.',
+  //     decimalDigits: 2,
   //     rounding: 0,
   //   },
   //   ...
@@ -47,20 +47,20 @@ Full list of currencies
   //   ...
   //   {
   //     name: 'US Dollar',
-  //     name_plural: 'US dollars',
+  //     namePlural: 'US dollars',
   //     code: 'USD',
   //     symbol: '$',
-  //     symbol_native: '$',
-  //     decimal_digits: 2,
+  //     symbolNative: '$',
+  //     decimalDigits: 2,
   //     rounding: 0,
   //   },
   //   {
   //     name: 'Russian Ruble',
-  //     name_plural: 'Russian rubles',
+  //     namePlural: 'Russian rubles',
   //     code: 'RUB',
   //     symbol: 'RUB',
-  //     symbol_native: '₽.',
-  //     decimal_digits: 2,
+  //     symbolNative: '₽.',
+  //     decimalDigits: 2,
   //     rounding: 0,
   //   },
   //   ...
