@@ -1,6 +1,6 @@
 {
   "name": "currencies.json",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Full list of currencies",
   "main": "index.js",
   "types": "index.d.ts",
