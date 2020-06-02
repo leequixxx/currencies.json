@@ -1,0 +1,20 @@
+{
+  "name": "currencies.json",
+  "version": "1.0.0",
+  "description": "Full list of currencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leequixxx/currencies.json"
+  },
+  "keywords": [
+    "currency",
+    "money",
+    "static"
+  ],
+  "author": "Misha Vorobeychikov <mail@leequixxx.space>",
+  "license": "GPL-3.0"
+}
