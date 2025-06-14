@@ -433,7 +433,7 @@
   },
   {
     "name": "Indian Rupee",
-    "symbol": "Rs",
+    "symbol": "₹",
     "symbolNative": "টকা",
     "decimalDigits": 2,
     "rounding": 0,
